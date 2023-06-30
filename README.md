@@ -8,6 +8,8 @@ To use the project,
    2) 'pip install -r requirements.txt'(to install python modules)
   
    3) Create your own .env file containing
+
+
      i)    SECRET (give any random string)
 
      ii)   EMAIL (will act as admin)
